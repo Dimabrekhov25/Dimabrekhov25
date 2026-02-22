@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left"><br><br>- 🎓 2nd year student at STU FIIT
+<p align="left"><br>- 🎓 2nd year student at STU FIIT
 <br>- 💻 Backend-focused developer working with C# / .NET Web API
 <br>- 🌐 Building full-stack applications with .NET + React
 <br>- 🧠 Strong interest in backend architecture and clean API design
