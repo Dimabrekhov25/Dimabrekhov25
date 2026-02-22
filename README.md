@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dmytro-brekhov-48653b273/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMjR7gx6W5-B-hglc98RYENcZeIrSg0t6aA&s" height="25" alt="linkedin logo"  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcn9YogzGC6__cQByiHfPA8PG34733q14Bow&s" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/Dimabrekhov25" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVSYVdDtlR7HS4td505_ffvuSHzn5Or1ErQ&s" height="50" alt="github logo"  />
