@@ -10,10 +10,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dmytro-brekhov-48653b273/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="25" alt="youtube logo"  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMjR7gx6W5-B-hglc98RYENcZeIrSg0t6aA&s" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/Dimabrekhov25" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height="25" alt="telegram logo"  />
+    <img src="https://filearchive.cnews.ru/img/cnews/2021/10/19/logos/74/7433692cabbfa132f34adb034e7909fa.png" height="25" alt="github logo"  />
   </a>
 </div>
 
@@ -35,16 +35,10 @@
 
 ###
 
-<p align="left><br><br>- Worked with Java
+<p align="left"><br><br>- Worked with Java
 <br>- Implemented a custom TCP-like protocol over UDP in Python
 <br>- Familiar with networking fundamentals
 <br>- Experience designing backend systems and database structures
-</p>
-
-###
-
-<p align="center">
- <img width="300" src="https://cdn-icons-gif.flaticon.com/17122/17122515.gif"/>
 </p>
 
 ###
@@ -57,6 +51,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" height="40" alt="c# logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/960px-.NET_Core_Logo.svg.png" height="40" alt=".net core logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/960px-Java_programming_language_logo.svg.png" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -71,6 +67,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://www.superbefilms.com/wp-content/uploads/2016/03/css-logo.png" height="40" alt="css logo"  />
   <img width="12" />
    <img src="https://img.icons8.com/color/1200/docker.jpg" height="40" alt="docker logo"  />
   <img width="12" />
