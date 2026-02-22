@@ -13,7 +13,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMjR7gx6W5-B-hglc98RYENcZeIrSg0t6aA&s" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/Dimabrekhov25" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVSYVdDtlR7HS4td505_ffvuSHzn5Or1ErQ&s" height="25" alt="github logo"  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVSYVdDtlR7HS4td505_ffvuSHzn5Or1ErQ&s" height="50" alt="github logo"  />
   </a>
 </div>
 
@@ -31,19 +31,7 @@
 
 ###
 
-<h3 align="left">📚 Additional Experience</h3>
-
-###
-
-<p align="left"><br><br>- Worked with Java
-<br>- Implemented a custom TCP-like protocol over UDP in Python
-<br>- Familiar with networking fundamentals
-<br>- Experience designing backend systems and database structures
-</p>
-
-###
-
-<h3 align="left">🛠 Tech Stack</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
