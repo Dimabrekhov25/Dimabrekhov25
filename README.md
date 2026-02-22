@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/dmytro-brekhov-48653b273/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcn9YogzGC6__cQByiHfPA8PG34733q14Bow&s" height="50" alt="linkedin logo"  />
   </a>
