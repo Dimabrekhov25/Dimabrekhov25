@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Full-Stack .NET Developer | 2nd Year STU FIIT Student</p>
+<p align="left">Full-Stack .NET Developer | 3nd Year STU FIIT Student</p>
 
 ###
 
